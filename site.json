@@ -1,0 +1,27 @@
+{
+    "site_name": "CodingNEXT", 
+    "site_links": [
+        {
+            "url": "archive.html", 
+            "title": "\u5b58\u6863"
+        }, 
+        {
+            "url": "about.html", 
+            "title": "\u5173\u4e8e"
+        }
+    ], 
+    "author": "adow", 
+    "author_email": "reynoldqin@gmail.com", 
+    "site_theme": "default", 
+    "site_title_mobile": "CodingNEXT", 
+    "author_twitter": "https://twitter.com/reynoldqin", 
+    "author_weibo": "https://weibo.com/adow", 
+    "site_url": "http://codingnext.com/", 
+    "author_avatar": "http://wx.qlogo.cn/mmopen/X3L5jTrqCsk1Hh0fy668qI9yAH3O11dSzzXzHicBNoGKqYvAKGwZicnMQicOwyeuCyibYjFHvJfXw9Njb7JC9gwF7saPkLb5epUK/0", 
+    "site_title": "CodingNEXT", 
+    "site_name_mobile": "CodingNEXT", 
+    "author_status": "iOS 开发者, 有时写点 Python", 
+    "author_github": "https://github.com/adow", 
+    "article_css": {}, 
+    "article_theme": "default"
+}
