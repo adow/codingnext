@@ -7,13 +7,11 @@
 以下是我在一些社交网络中的链接:
 
 * [github.com][1]
-* [微博][2]
-* [twitter.com][3]
-* [v2ex.com][4]
+* [twitter.com][2]
+* [v2ex.com][3]
 
 
 
 [1]:	https://github.com/adow
-[2]:	https://weibo.com/adow
-[3]:	https://twitter.com/reynoldqin
-[4]:	https://v2ex.com/member/adow
+[2]:	https://twitter.com/reynoldqin
+[3]:	https://v2ex.com/member/adow
